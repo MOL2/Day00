@@ -1,0 +1,216 @@
+ 1115  cd covers
+ 1116  mkdir Sony
+ 1117  ls
+ 1118  mkdir Nintendo
+ 1119  mkdir Microsoft
+ 1120  mkdir Sega
+ 1121  ls
+ 1122  cd Microsoft
+ 1123  cd.
+ 1124  ls
+ 1125  cd ..
+ 1126  mv Microsoft Constructeurs
+ 1127  ls
+ 1128  cd Constructeurs
+ 1129  ls
+ 1130  cd ..
+ 1131  mv Nintendo Constructeurs
+ 1132  ls
+ 1133  mv Sega  Constructeurs
+ 1134  ls
+ 1135  mv Sony  Constructeurs
+ 1136  ls
+ 1137  cd Constructeurs
+ 1138  ls
+ 1139  cd Microsoft
+ 1140  mkdir Consoles
+ 1141  mkdir Consoles portables
+ 1142  mkdir ConsolesPortables
+ 1143  ls
+ 1144  rm -rf portables
+ 1145  ls
+ 1146  cd Consoles
+ 1147  mkdir PS4
+ 1148  mkdir PS5
+ 1149  cd ..
+ 1150  ls
+ 1151  cd ConsolesPortables
+ 1152  ls
+ 1153  cd..
+ 1154  cd ..
+ 1155  ls
+ 1156  cd ..
+ 1157  ls
+ 1158  cd Sega
+ 1159  ls
+ 1160  cd Consoles
+ 1161  mkdir Consoles
+ 1162  cd ..
+ 1163  cd ..
+ 1164  mv coversAssets covers
+ 1165  ls
+ 1166  mv coversAssets covers
+ 1167  ls
+ 1168  cd ..
+ 1169  cd ..
+ 1170  cd ..
+ 1171  ls
+ 1172  cd ..
+ 1173  ls
+ 1174  cd D
+ 1175  cd Downloads
+ 1176  ls
+ 1177  mv coversAssets covers
+ 1178  mv covers coversAssets
+ 1179  pwd
+ 1180  mv coversAssets /Users/mauldereigner/Dev/cours21/Day00
+ 1181  cd ..
+ 1182  ls
+ 1183  cd Dev
+ 1184  cd cours21
+ 1185  cd Day00
+ 1186  cd coversAssets
+ 1187  ls
+ 1188  mv xbox_needforspeedunderground2.jpg xbox
+ 1189  mv xbox_jetsetradiofuture_2.jpg xbox
+ 1190  ls
+ 1191  ls
+ 1192  rm -fr xbox
+ 1193  ls
+ 1194  cd ..
+ 1195  cd covers
+ 1196  cd Constructeurs
+ 1197  cd Mi
+ 1198  cd Microsoft
+ 1199  ls
+ 1200  cd Consoles
+ 1201  ls
+ 1202  mv PS4 Xbox
+ 1203  ls
+ 1204  mv PS5 Xbox360
+ 1205  ls
+ 1206  cd ..
+ 1207  ls
+ 1208  rm -rf ConsolesPortables
+ 1209  cd Consoles
+ 1210  pwd
+ 1211  cd ..
+ 1212  cd ..
+ 1213  cd ..
+ 1214  history
+ 1215  cd Constructeurs
+ 1216  cd ..
+ 1217  cd Constructeurs
+ 1218  cd Nintendo
+ 1219  ls
+ 1220  mkdir Consoles
+ 1221  mkdir Gamecube
+ 1222  ls
+ 1223  mv Gamecube Consoles
+ 1224  ls
+ 1225  cd Consoles
+ 1226  ls
+ 1227  cd ..
+ 1228  ls
+ 1229  mkdir ConsolesPortables
+ 1230  ls
+ 1231  cd ConsolesPortables
+ 1232  mkdir GameBoy
+ 1233  ls
+ 1234  cd ..
+ 1235  cd ..
+ 1236  cd Sega
+ 1237  ls
+ 1238  cd Consoles
+ 1239  mkdir Dreamcast
+ 1240  cd ..
+ 1241  cd ..
+ 1242  ls
+ 1243  cd Sony
+ 1244  ls
+ 1245  mkdir Consoles
+ 1246  cd Consoles
+ 1247  mkdir PS4
+ 1248  mkdir PS5
+ 1249  cd ..
+ 1250  ls
+ 1251  mkdir ConsolesProtables
+ 1252  cd ..
+ 1253  cd ..
+ 1254  pwd
+ 1255  ls
+ 1256  cd ..
+ 1257  rm -rf coversAssets
+ 1258  ls
+ 1259  rm -rf README.md
+ 1260  pwd
+ 1261  cd assets
+ 1262  pwd
+ 1263  ls
+ 1264  mv xbox_needforspeedunderground2.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1265  mv xbox_jetsetradiofuture_2.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1266  mv xbox_halo_2.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1267  mv xbox_halo2.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1268  ls
+ 1269  mv xbox_defjamfightforny.jpg/xbox_deadtorights.jpg/xbox_deadoralive3.jp/xbox_360.fableiii.jpg/x360_callofdutyblackopsii.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1270  ls
+ 1271  mv xbox_defjamfightforny.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1272  ls
+ 1273  mv xbox_deadtorights.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1274  ls
+ 1275  mv xbox_deadoralive3.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1276  mv xbox_360.fableiii.jpg/x360_callofdutyblackopsii.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1277  mv xbox_360.fableiii.jpg/x360_callofdutyblackopsii.jpg/ /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1278  mv xbox_360.fableiii.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1279  mv x360_callofdutyblackopsii.jpg/ /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1280  ls
+ 1281  mv x360_callofdutyblackopsii.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1282  ls
+ 1283  mv x360_callofduty4.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1284  ls
+ 1285  mv x360_callofduty2.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1286  ls
+ 1287  cd x360_callfoduty3.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1288  ls
+ 1289  cd x360_callfoduty3.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1290  ls
+ 1291  cd x360_callfoduty3.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1292  ls
+ 1293  ls
+ 1294  mv x360_callfoduty3.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+ 1295  ls
+ 1296  mv ps4_fifa14.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/PS4
+ 1297  ls
+ 1298  cd playstation_5.residentevilvillage_.jpg
+ 1299  mv playstation_5.residentevilvillage_.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/Consoles/PS5
+ 1300  mv playstation_5.farcry6.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/Consoles/PS5
+ 1301  mv playstation_5.assassinscreedvalhalla.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/Consoles/PS5
+ 1302  mv playstation_4.assassinscreedodyssey.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/Consoles/PS5
+ 1303  ls
+ 1304  mv playstation_4.watchdogs2.jpg playstation_4.unchartedthelostlegacy.jpg /User/mauldereignier/Dev/cours21/Day00/covers/Constructeurs/Sony/PS4
+ 1305  mv playstation_4.watchdogs2.jpg /User/mauldereignier/Dev/cours21/Day00/covers/Constructeurs/Sony/PS4
+ 1306  mv playstation_4.watchdogs2.jpg  /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/Consoles/PS5
+ 1307  ls
+ 1308  mv playstation_4.unchartedthelostlegacy.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Sony/Consoles/PS4
+ 1309  ls
+ 1310  mv gc_supermariosunshine.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Nintendo/Consoles/Gamecube
+ 1311  mv gc_mariokartdoubledash.jpg /Users/mauldereigner/Dev/cours21/Day00/covers/Constructeurs/Nintendo/Consoles/Gamecube
+ 1312  cd ..
+ 1313  ls
+ 1314  rm -rf assets
+ 1315  ls
+ 1316  cd covers
+ 1317  cd Constructeurs
+ 1318  cd Sony
+ 1319  ls
+ 1320  cd ConsolesProtables
+ 1321  cd ..
+ 1322  rm -fr ConsolesProtables
+ 1323  cd ..
+ 1324  cd ..
+ 1325  cd ..
+ 1326  history 1
+ 1327  mkdir commands.txt
+ 1328  ls
+ 1329  touch commands.txt
+ 1330  ls
