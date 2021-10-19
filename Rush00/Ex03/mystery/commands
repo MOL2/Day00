@@ -1,0 +1,69 @@
+grep 'CLUE' crimescene
+
+male
+6'
+
+
+AAA
+Delta SkyMiles
+libraryDel  
+museum
+
+
+Annabel
+blond spiky
+new zealand
+
+grep 'Annabel' people
+grep "Joe Germuska"
+grep 'Annabel' people
+
+head -40 streets/Hart_Place | tail -n +40
+SEE INTERVIEW #47246024
+
+cat interview-47246024 
+Ms. Sun has brown hair and is not from New Zealand.  Not the witness from the cafe.
+
+tail -n +179 streets/Buckingham_Place | head -n1
+SEE INTERVIEW #699607
+
+
+cat interviews/interview-699607
+blue Honda, with a license plate that starts with "L337" and ends with "9"
+
+grep -A 5 -i "L337" vehicles | grep -A 4 -B 1 "Honda" | grep -A 3 -B 2 "Blue"
+
+Erika Owens
+Joe Germuska
+Jeremy Bowers
+Jacqui Maher
+
+cd memberships
+
+grep "Joe Germuska" AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History 
+2/4
+
+grep "Jeremy Bowers" AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History 
+4/4
+
+grep "Jacqui Maher" AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History 
+4/4
+
+grep "Jeremy Bowers" people 
+Jeremy Bowers	M	34	Dunstable Road, line 284
+
+head -n 284 streets/Dunstable_Road | tail -n 1
+SEE INTERVIEW #9620713
+
+cat interviews/interview-9620713
+
+?
+
+grep "Jacqui Maher" people 
+Jacqui Maher	F	40	Andover Road, line 224
+innocent
+
+
+Jeremy Bower ?
+
+
