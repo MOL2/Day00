@@ -1,0 +1,2 @@
+cat deposition_Joe_Rugiani.txt | sed 's/cadillac jaune/chevrolet impala/'
+cat deposition_Joe_Rugiani.txt | sed 's/rouge/vert/'
