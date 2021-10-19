@@ -1,0 +1,2 @@
+cat tcpd_departement.csv | awk -F , ' ($2 == "Officer") '
+
