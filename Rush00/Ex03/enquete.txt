@@ -47,3 +47,192 @@ License Plate L337DV9
 License Plate L3375A9
 License Plate L337WR9
 
+ grep -A 5 'L337.*9'vehicles
+grep: Honda: No such file or directory
+vehicles:License Plate L337ZR9
+vehicles-Make: Honda
+vehicles-Color: Red
+vehicles-Owner: Katie Park
+vehicles-Height: 6'2"
+vehicles-Weight: 189 lbs
+--
+vehicles:License Plate L337P89
+vehicles-Make: Honda
+vehicles-Color: Teal
+vehicles-Owner: Mike Bostock
+vehicles-Height: 6'4"
+vehicles-Weight: 173 lbs
+--
+vehicles:License Plate L337GX9
+vehicles-Make: Mazda
+vehicles-Color: Orange
+vehicles-Owner: John Keefe
+vehicles-Height: 6'4"
+vehicles-Weight: 185 lbs
+--
+vehicles:License Plate L337QE9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Erika Owens
+vehicles-Height: 6'5"
+vehicles-Weight: 220 lbs
+--
+vehicles:License Plate L337GB9
+vehicles-Make: Toyota
+vehicles-Color: Blue
+vehicles-Owner: Matt Waite
+vehicles-Height: 6'1"
+vehicles-Weight: 190 lbs
+--
+vehicles:License Plate L337OI9
+vehicles-Make: Jaguar
+vehicles-Color: Blue
+vehicles-Owner: Brian Boyer
+vehicles-Height: 6'6"
+vehicles-Weight: 201 lbs
+--
+vehicles:License Plate L337X19
+vehicles-Make: Fiat
+vehicles-Color: Blue
+vehicles-Owner: Al Shaw
+vehicles-Height: 6'5"
+vehicles-Weight: 240 lbs
+--
+vehicles:License Plate L337539
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Aron Pilhofer
+vehicles-Height: 5'3"
+vehicles-Weight: 198 lbs
+--
+vehicles:License Plate L3373U9
+vehicles-Make: Ford
+vehicles-Color: Blue
+vehicles-Owner: Miranda Mulligan
+vehicles-Height: 6'6"
+vehicles-Weight: 156 lbs
+--
+vehicles:License Plate L337369
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Heather Billings
+vehicles-Height: 5'2"
+vehicles-Weight: 244 lbs
+--
+vehicles:License Plate L337DV9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Joe Germuska
+vehicles-Height: 6'2"
+vehicles-Weight: 164 lbs
+--
+vehicles:License Plate L3375A9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Jeremy Bowers
+vehicles-Height: 6'1"
+vehicles-Weight: 204 lbs
+--
+vehicles:License Plate L337WR9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Jacqui Maher
+vehicles-Height: 6'2"
+vehicles-Weight: 130 lbs
+
+
+grep -A 5 'Honda' test.txt
+Make: Honda
+Color: Red
+Owner: Katie Park
+Height: 6'2"
+Weight: 189 lbs
+--
+--
+Make: Honda
+Color: Teal
+Owner: Mike Bostock
+Height: 6'4"
+Weight: 173 lbs
+--
+--
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+--
+--
+Make: Honda
+Color: Blue
+Owner: Aron Pilhofer
+Height: 5'3"
+Weight: 198 lbs
+--
+--
+Make: Honda
+Color: Blue
+Owner: Heather Billings
+Height: 5'2"
+Weight: 244 lbs
+--
+--
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+--
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+--
+--
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+grep 'Katie Park' people
+Katie Park      F       49      Fayston Street, line 134
+
+grep 'Mike Bostock' people
+Mike Bostock    M       45      Senders Court, line 287
+
+ grep 'Erika Owens' people
+Erika Owens     F       56      Trapelo Street, line 98
+
+grep 'Joe Germuska' people
+Joe Germuska    M       65      Plainfield Street, line 275
+
+grep 'Jeremy Bowers' people
+Jeremy Bowers   M       34      Dunstable Road, line 284
+
+grep 'Jacqui Maher' people
+Jacqui Maher    F       40      Andover Road, line 224
+
+sed -n 145p streets/Claybourne_Street
+SEE INTERVIEW #1767435
+
+cat interviews/interview-1767435
+Too short to match the camera footage.  Pilhofer is not considered a suspect.%
+
+sed -n 275p streets/Plainfield_Street
+SEE INTERVIEW #29741223
+
+cat interviews/interview-29741223
+Should not be considered a suspect, has no SkyMiles membership and has never been a member of the Museum of Bash History.
+
+sed -n 284p streets/Dunstable_Road
+SEE INTERVIEW #9620713
+
+cat interviews/interview-9620713
+Home appears to be empty, no answer at the door.
+After questioning neighbors, appears that the occupant may have left for a trip recently.
+Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.%
+
+Le coupable est Jeremy Bowers !
